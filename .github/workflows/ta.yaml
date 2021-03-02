@@ -22,6 +22,7 @@ jobs:
                   node-version: 10.x
             - name: npm install
               run: |
+                  cd ~/HAOYANGMAO
                   git checkout master
                   npm install
                  
