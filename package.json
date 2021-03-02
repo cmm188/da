@@ -1,5 +1,5 @@
 {
-    "name": "dai",
+    "name": "da",
     "version": "1.0.0",
     "description": "sign everything",
     "main": "Ponysitters_Club_Season.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/cmm188/dai.git"
+        "url": "git+https://github.com/cmm188/da.git"
     },
     "keywords": [
         "sign"
@@ -16,9 +16,9 @@
     "author": "canghaiyishengxiao2021",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/cmm188/dai/issues"
+        "url": "https://github.com/cmm188/da/issues"
     },
-    "homepage": "https://github.com/cmm188/dai#readme",
+    "homepage": "https://github.com/cmm188/da#readme",
     "dependencies": {
         "download": "^8.0.0",
         "request": "^2.88.2",
