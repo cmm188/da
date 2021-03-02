@@ -3,7 +3,6 @@
 
 name: 它德结项瓜逗
 
-name: Xx
 
 on:
   workflow_dispatch:
