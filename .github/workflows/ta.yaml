@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Checkout
         run: |
-          git clone https://github.com/dai/HAOYANGMAO.git ~/HAOYANGMAO
+          git clone https://github.com/cmm188/dai.git ~/dai
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -33,12 +33,12 @@ jobs:
           key: ${{ runner.os }}-${{ env.cache-name }}-${{ hashFiles('package-lock.json') }} # 使用 package-lock.json 的 Hash 作为缓存的 key。也可以使用 package.json 代替
       - name: npm install
         run: |
-          cd ~/HAOYANGMAO
+          cd ~/dai
           git checkout master
           npm install
       - name: '运行 【它德结项瓜逗】'
         run: |
-          cd ~/dai/HAOYANGMAO
+          cd ~/cmm188/dai
           node ta.js
         env:
           TZ: Asia/shanghai
