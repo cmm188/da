@@ -23,7 +23,7 @@ jobs:
             - name: npm install
               run: |
                   npm install
-            - name: "运行 【东瓜天天加速】"
+            - name: "运行 【它的接】"
               run: |
                   node Ponysitters_Club_Season.js
               env:
