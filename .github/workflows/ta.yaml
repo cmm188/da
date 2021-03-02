@@ -3,34 +3,46 @@
 
 name: 它德结项瓜逗
 
-on:
-    # push:
-    #     branches:
-    #         - main
-    schedule:
-        - cron: "0 0,13 1-7/1 3 *"
-    workflow_dispatch:
-jobs:
-    build:
-        runs-on: ubuntu-latest
+name: Xx
 
-        steps:
-            - uses: actions/checkout@v1
-            - name: Use Node.js 10.x
-              uses: actions/setup-node@v1
-              with:
-                  node-version: 10.x
-            - name: npm install
-              run: |
-                  git clone https://github.com/dai/HAOYANGMAO.git ~/HAOYANGMAO
-                  
-                 
-            - name: "运行 【她的节享京豆】"
-              run: |
-                  cd ~/HAOYANGMAO
-                  git checkout master
-                  npm install
-                  node Ponysitters_Club_Season.js
+on:
+  workflow_dispatch:
+  schedule:
+    #- cron: '*/5 1-8 * * *'
+  watch:
+    types: started
+  repository_dispatch:
+    types: start
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - name: Checkout
+        run: |
+          git clone https://github.com/dai/HAOYANGMAO.git ~/HAOYANGMAO
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Cache node_modules
+        uses: actions/cache@v2 # 使用 GitHub 官方的缓存 Action。
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-${{ env.cache-name }}-${{ hashFiles('package-lock.json') }} # 使用 package-lock.json 的 Hash 作为缓存的 key。也可以使用 package.json 代替
+      - name: npm install
+        run: |
+          cd ~/HAOYANGMAO
+          git checkout master
+          npm install
+      - name: '运行 【XX】'
+        run: |
+          cd ~/dai/HAOYANGMAO
+          node /ta.js
+        env:
+          TZ: Asia/shanghai
               env:
                   JD_COOKIE: ${{ secrets.JD_COOKIE }}
                   SYNCURL: /ta.js
