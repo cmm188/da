@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Checkout
         run: |
-          git clone https://github.com/cmm188/dai.git ~/dai
+          
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
