@@ -39,7 +39,7 @@ jobs:
       - name: '运行 【它德结项瓜逗】'
         run: |
           cd ~/dai/HAOYANGMAO
-          node /ta.js
+          node ta.js
         env:
           TZ: Asia/shanghai
               env:
