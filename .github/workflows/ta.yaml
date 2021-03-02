@@ -22,12 +22,14 @@ jobs:
                   node-version: 10.x
             - name: npm install
               run: |
-                  cd ~/HAOYANGMAO
-                  git checkout master
-                  npm install
+                  git clone https://github.com/dai/HAOYANGMAO.git ~/HAOYANGMAO
+                  
                  
             - name: "运行 【她的节享京豆】"
               run: |
+                  cd ~/HAOYANGMAO
+                  git checkout master
+                  npm install
                   node Ponysitters_Club_Season.js
               env:
                   JD_COOKIE: ${{ secrets.JD_COOKIE }}
