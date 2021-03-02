@@ -36,7 +36,7 @@ jobs:
           cd ~/HAOYANGMAO
           git checkout master
           npm install
-      - name: '运行 【XX】'
+      - name: '运行 【它德结项瓜逗】'
         run: |
           cd ~/dai/HAOYANGMAO
           node /ta.js
