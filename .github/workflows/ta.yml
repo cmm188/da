@@ -22,7 +22,9 @@ jobs:
                   node-version: 10.x
             - name: npm install
               run: |
+                  git checkout master
                   npm install
+                 
             - name: "运行 【她的节享京豆】"
               run: |
                   node Ponysitters_Club_Season.js
