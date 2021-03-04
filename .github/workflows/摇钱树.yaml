@@ -27,7 +27,7 @@ jobs:
             - name: npm install
               run: |
                   npm install
-                  npm install crypto-js http-server tough-cookie got --save
+                 
             - name: "运行 【摇钱树】"
               run: |
                   node Ponysitters_Club_Season.js
