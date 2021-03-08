@@ -21,7 +21,7 @@ bdlist=[]
 
 djj_bark_cookie=''
 
-djj_tele_cookie=''
+djj_tele_cookie='027a5a012dd4f4e0081d5c8cfa0e9c8b1a835b2cfc00c'
 
 
 
