@@ -37,6 +37,4 @@ jobs:
                   EFORK: ${{ secrets.EFORK }}
                   GITHUB: ${{ secrets.GITHUB }}
                   HELPURL: ${{ secrets.HELPURL }}
-                  DREAMFACTORY_FORBID_ACCOUNT: ${{ github.event.client_payload.DREAMFACTORY_FORBID_ACCOUNT || secrets.DREAMFACTORY_FORBID_ACCOUNT }}
-                  IGNORE_COOKIE_JXGC: ${{ github.event.client_payload.IGNORE_COOKIE_JXGC || secrets.IGNORE_COOKIE_JXGC }}
-                  
+              
