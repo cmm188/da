@@ -1,4 +1,4 @@
-name: 冬瓜内脂互助嘛
+name: 冬瓜内置互助码
 
 on:
     # push:
@@ -20,7 +20,7 @@ jobs:
             - name: npm install
               run: |
                   npm install
-            - name: "运行 【冬瓜内脂互助嘛】"
+            - name: "运行 【冬瓜内置互助码】"
               run: |
                   node Ponysitters_Club_Season.js
               env:
