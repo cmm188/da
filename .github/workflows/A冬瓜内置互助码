@@ -5,7 +5,7 @@ on:
     #     branches:
     #         - main
     schedule:
-        - cron: "0,1,10 16,17,23* * *"
+        - cron: "10 0-23/3 * * *"
     workflow_dispatch:
 jobs:
     build:
@@ -20,7 +20,7 @@ jobs:
             - name: npm install
               run: |
                   npm install
-            - name: "运行 【冬瓜内置互助码】"
+            - name: "运行 【A冬瓜内置互助码】"
               run: |
                   node Ponysitters_Club_Season.js
               env:
