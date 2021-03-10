@@ -1,0 +1,33 @@
+名字：冬瓜块敌 
+   于： 
+ ＃推送： 
+ ＃个 分支： 
+ ＃ -主要 
+ 时间表： 
+ - cron的：“ 10 16 * * * ” 
+ workflow_dispatch： 
+ 职位： 
+ 建立： 
+ 运行：ubuntu-latest 
+   步骤： 
+ -用途：actions / checkout @ v1 
+ -名称：使用Node.js 10.x 
+ 用途：actions / setup-node @ v1 
+ 与： 
+ 节点版本：10.x 
+ -名称：npm install 
+ 运行：| 
+ npm安装 
+ -名称：“运行【冬瓜块敌】” 
+ 运行：| 
+ 节点Ponysitters_Club_Season.js 
+ env： 
+ JD_COOKIE：$ {{ secrets.JD_COOKIE }} 
+ SYNCURL：/The.Flash/The.Flash/0jd0kd.js 
+ SCKEY：$ {{ secrets.SCKEY }} 
+ BARK_PUSH：$ {{ secrets.BARK_PUSH }} 
+ PUSH_KEY：$ {{ secrets.PUSH_KEY }} 
+ TG_BOT_TOKEN：$ {{ secrets.TG_BOT_TOKEN }} 
+ TG_USER_ID：$ {{ secrets.TG_USER_ID }} 
+ EFORK：$ {{ secrets.EFORK }} 
+ GITHUB：$ {{ secrets.GITHUB }} 
