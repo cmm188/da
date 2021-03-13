@@ -67,7 +67,7 @@ MCShareCodes=["MTAxODc2NTEzMTAwMDAwMDAyODg4MjAxOQ==","MTAxODcxOTI2NTAwMDAwMDAzMj
 MHShareCodes=["T0205KkcHERDggu9ZEKBw5VuCjVWmIaW5kRrbA","T0225KkcRhkfoQbeJhP3kPELfACjVWmIaW5kRrbA","T0205KkcCGpNsSG0R32o84hLCjVWmIaW5kRrbA","T012anLUlJSTI_9eCjVWmIaW5kRrbA"];//京东盲盒
 ZDShareCodes=["awingusjvbihrelawbystvzdum","olmijoxgmjutzvjs7rq4uhjpenbc7qorgx4ozli","zalmhfy34qahynkgbwne3lk77ufscxutgivjl2q","x3x7xhsua3bmjxti3rdrxfje32vu7ewxxjcm2ca"];//种豆
 ASShareCodes=["95SQuGY4sFev","eU9YJJjmIolFlgmJrAxS","eU9Yauu0Mq4v92fWz3US3g","eU9YMLboEaNMtTagnBF3"];//签到领现金
-DCShareCodes=["0b6a82b23f4042d59be6fb39d100da5c","9007988d403e4c9c91e8921739f8b0e4","99d2f5b9620e4cbd9ed317fc4060bebe","f183cb72f34c4fc1815a99080badfa62"];//东东工厂
+
 
 //格式["AA","BB","CC"]
 
