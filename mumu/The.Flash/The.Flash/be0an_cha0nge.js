@@ -172,7 +172,7 @@ cron "2 9 * * *" script-path=https://jdsharedresourcescdn.azureedge.net/jdresour
 ============小火箭=========
 京东资产变动通知 = type=cron,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_change.js, cronexpr="2 9 * * *", timeout=3600, enable=true
  */
-const $ = new Env('京东资产变动通知');
+const $ = new Env('冬瓜资产变动通知');
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
