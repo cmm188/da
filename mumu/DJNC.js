@@ -66,7 +66,7 @@ let cookiesArr = [], cookie = '', jdFruitShareArr = [], isBox = false, notify, n
 //助力好友分享码(最多4个,否则后面的助力失败),原因:京东农场每人每天只有四次助力机会
 //此此内容是IOS用户下载脚本到本地使用，填写互助码的地方，同一京东账号的好友互助码请使用@符号隔开。
 //下面给出两个账号的填写示例（iOS只支持2个京东账号）
-let shareCodes = ["","",""]
+let shareCodes = ["0b6a82b23f4042d59be6fb39d100da5c","9007988d403e4c9c91e8921739f8b0e4","99d2f5b9620e4cbd9ed317fc4060bebe","fad2a87580c34a4fa8b4850af652a49d","6b381aca9dce41d4b4a03aa0adcd0072","001c92ecd4e64b81b25af0a77c517c63","f183cb72f34c4fc1815a99080badfa62"]
 let message = '', subTitle = '', option = {}, isFruitFinished = false;
 const retainWater = 100;//保留水滴大于多少g,默认100g;
 let jdNotify = false;//是否关闭通知，false打开通知推送，true关闭通知推送
