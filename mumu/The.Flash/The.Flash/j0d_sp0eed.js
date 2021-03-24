@@ -49,7 +49,7 @@ if ($.isNode()) {
 } else {
   cookiesArr = [$.getdata('CookieJD'), $.getdata('CookieJD2'), ...jsonParse($.getdata('CookiesJD') || "[]").map(item => item.cookie)].filter(item => !!item);
 }
-let jdNotify = true;//是否开启静默运行。默认true开启
+let jdNotify = false;//是否开启静默运行。默认true开启
 let message = '', subTitle = '';
 const JD_API_HOST = 'https://api.m.jd.com/'
 
