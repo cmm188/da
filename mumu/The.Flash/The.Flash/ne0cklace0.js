@@ -1,131 +1,36 @@
 /*
- * @Author: LXK9301 https://github.com/LXK9301
+ * @Author: lxk0301 https://gitee.com/lxk0301
  * @Date: 2020-11-20 11:42:03 
- * @Last Modified by: LXK9301
- * @Last Modified time: 2020-12-12 12:27:14
+ * @Last Modified by: lxk0301
+ * @Last Modified time: 2021-3-25 12:27:14
  */
 /*
-
-选择学校重要吗？
-文章来源：未知 文章作者：enread 发布时间：2020-03-30 06:17 字体： [大 中 小]　 进入论坛
-(单词翻译:双击或拖选)
-We’re all told to work hard in school, so that we can get into the best colleges or universities, and be successful.
-我们都被吩咐要在学校努力学习，以考上最好的学校或大学，成为成功人士。
- 
-But, does the school you choose actually matter?
-但是，你选择的学校真的重要吗？
- 
-Take a look at these SAT scores for an average school which are out of 800, by the way.
-看看普通学校学生所得的SAT平均分，总分是800.
- 
-Those that have the highest SAT scores end up representing over 50% of the people who get degrees at these schools, while the lowest SAT scores only represent around 18% of the people who actually graduate. Not so surprising.
-那些获得SAT最高分的学生最终在拿到学位的人中占一半以上，而那些获得SAT最低分的学生仅占真正能毕业者的百分之十八。这毫不让人意外。
- 
-But now let’s look at a top school, like Harvard.
-但是让我们看看顶尖学校，比如哈佛。
- 
-Here, the students with the lowest SAT scores, are still smarter than the best students at an average school.
-在这里，拿最低SAT分的学生依旧比普通学校的尖子生聪明。
- 
-And yet, when we look at their rate of completion, it looks awfully1 similar.
-而且，当我们看到毕业率的时候，会发现有惊人的相似之处。
- 
-The top students represent just over 50% of people who graduate, while the lower SAT scores represent around 15% of people who actually graduate.
-尖子生的毕业率占一半以上，而SAT低分者仅占百分之十五左右。
- 
-Wait, what’s going on here? This phenomenon is known as the Big Fish Little Pond Effect.
-等等，这是怎么回事？这个现象被称为大鱼小池塘效应。
- 
-Simply put, we compare ourselves not globally, but to our neighbours or people who are in the same boat as we are.
-简单而言，我们不会把自己跟全世界的人对比，但是会跟邻里或者相同处境的人相比。
- 
-As a result, students at top schools compare themselves to their brilliant peers, and if you’re in the bottom half of your class, you’re likely to have feelings of inadequacy2.
-结果是，顶尖学校的学生会和他们出色的同学相比，如果你在班上处于中下游，你很有可能会觉得自己有所不足。
- 
-Even though compared to the rest of the world you are at the top.
-尽管和世界上其他所有人相比你仍处于顶尖位置。
- 
-Who do you think has a higher incidence of suicide?
-你认为谁会有更高的自杀率？
- 
-People who live in developed countries that declare themselves as very happy, like Switzerland, Denmark and Canada or those which describe themselves as unhappy, like Italy, Greece, and Spain?
-是像瑞士、丹麦和加拿大一样声称自己很幸福的发达国家，还是像意大利、希腊和西班牙一样认为自己不幸福的国家呢？
- 
-The happy countries. If you’re depressed3 but everyone around you is also unhappy, you may think of yourself as normal, as opposed to being stuck around people who are happier than you.
-是那些幸福的国家。如果你情绪低落，但是周围的人也不开心，你可能会认为自己很正常，而如果你被比你开心的人围绕着，情况会完全相反。
- 
-Similarly, if you’re very intelligent at an elite4 school, you may end up being a little fish in a very big pond.
-类似的，如果你在一所名校中非常出色，你也许会成为一条大池塘里的小鱼。
- 
-And feeling as though you’re at the bottom impacts your confidence and ultimately your motivation.
-自己在垫底的感觉会影响你的信心，最终阻碍你的积极性。
- 
-Need more statistics? 50% of US students in STEM programs drop out in the first or second year of school.
-需要更多数据吗？STEM 项目中一半的美国学生在第一或者第二学年就辍学了。
- 
-But for every 10 point decrease in the school’s average SAT score, degree completion rises by 2%!
-但是学校的人均SAT分数每降低10分，毕业率就上升百分之二。
- 
-Meaning, you’re much more likely to even get your degree if you don’t go to your top pick.
-意味着，如果你不去自己的首选学校，则更有可能拿到你的学位证。
- 
-But who ends up being more successful in the ‘real world’?
-但是现实世界中最终谁更成功呢？
- 
-A study looking at publications produced by economists5 in their first six years after graduation showed that top students in the 99th percentile ie smarter than almost every other person at the school from the top 5 schools in America were producing an impressive amount of publications.
-一项关于经济学毕业生在毕业6年内发表刊物的调查显示智商比学校其他99%的学生高的顶尖学生——美国大学前五的毕业生发表的刊物数量惊人。
- 
-But those in the 75th percentile, still the top quarter of best students, are publishing next to nothing.
-但是成绩前25的这部分，虽然作为四分之一的优秀学生，但是几乎没有作品刊登。
- 
-Essentially6 failures in their field.
-可以说在自己的领域内是完全的失败了。
- 
-But if we now look at the best students from the 30 worst schools, we see that they’re publishing more than those in the top quarter of the best schools in the country.
-但是如果我们看看最差30所学校的尖子生，会发现他们发表的刊物比优等学校前25的好学生要多。
- 
-Clearly, your surroundings and peers matter.
-很明显，你周围的环境和伙伴很重要。
- 
-Now, of course, this doesn’t cover every aspect of going to a top ranked school including the fact that having a degree from one of them can be a badge of honour, and may help you find a job more easily.
-现在，当然了，这并不涵盖选择顶尖学校的所有方面，包括获得这些学校的学位是一项荣誉的象征，也许还能帮你更容易找到一份工作。
- 
-But, that’s if you ever even graduate.
-但是，前提是你能够毕业。
- 
-So when you’re applying for school, or even at your new college, keep in mind that whether you go to the best or worst school, the formula for success is mixed.
-因此当你申请大学的时候，或者是开始念新学院的时候，记住不管你上的是最好还是最差的学校，成功的配方都是混杂的。
- 
-Remember the importance of confidence in your abilities, and how being a Big Fish in a little pond can sometimes be more important than your school itself.
-记住对自己的能力有信心十分重要，在小池塘里成为大鱼有时候比学校本身更重要。
-
 点点券，可以兑换无门槛红包（1元，5元，10元，100元，部分红包需抢购）
-活动入口：京东APP-领券中心/券后9.9-领点点券
-地址：https://h5.m.jd.com/babelDiy/Zeus/41Lkp7DumXYCFmPYtU3LTcnTTXTX/index.html
-已支持IOS双京东账号,Node.js支持N个京东账号
+活动入口：京东APP-领券中心/券后9.9-领点点券 [活动地址](https://h5.m.jd.com/babelDiy/Zeus/41Lkp7DumXYCFmPYtU3LTcnTTXTX/index.html)
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 ===============Quantumultx===============
 [task_local]
 #点点券
-10 0,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
+10 0,20 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 
 ================Loon==============
 [Script]
-cron "10 0,20 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js,tag=点点券
+cron "10 0,20 * * *" script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js,tag=点点券
 
 ===============Surge=================
-点点券 = type=cron,cronexp="10 0,20 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js
+点点券 = type=cron,cronexp="10 0,20 * * *",wake-system=1,timeout=3600,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js
 
 ============小火箭=========
-点点券 = type=cron,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js, cronexpr="10 0,20 * * *", timeout=3600, enable=true
+点点券 = type=cron,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js, cronexpr="10 0,20 * * *", timeout=3600, enable=true
  */
 const $ = new Env('点点券');
-
+let allMessage = ``;
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 const openUrl = `openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/41Lkp7DumXYCFmPYtU3LTcnTTXTX/index.html%22%20%7D`
 let message = '';
+let nowTimes = new Date(new Date().getTime() + new Date().getTimezoneOffset() * 60 * 1000 + 8 * 60 * 60 * 1000);
 //IOS等用户直接用NobyDa的jd cookie
 let cookiesArr = [], cookie = '';
 if ($.isNode()) {
@@ -134,13 +39,7 @@ if ($.isNode()) {
   })
   if (process.env.JD_DEBUG && process.env.JD_DEBUG === 'false') console.log = () => {};
 } else {
-  let cookiesData = $.getdata('CookiesJD') || "[]";
-  cookiesData = jsonParse(cookiesData);
-  cookiesArr = cookiesData.map(item => item.cookie);
-  cookiesArr.reverse();
-  cookiesArr.push(...[$.getdata('CookieJD2'), $.getdata('CookieJD')]);
-  cookiesArr.reverse();
-  cookiesArr = cookiesArr.filter(item => item !== "" && item !== null && item !== undefined);
+  cookiesArr = [$.getdata('CookieJD'), $.getdata('CookieJD2'), ...jsonParse($.getdata('CookiesJD') || "[]").map(item => item.cookie)].filter(item => !!item);
 }
 
 const JD_API_HOST = 'https://api.m.jd.com/api';
@@ -152,7 +51,7 @@ const JD_API_HOST = 'https://api.m.jd.com/api';
   for (let i = 0; i < cookiesArr.length; i++) {
     if (cookiesArr[i]) {
       cookie = cookiesArr[i];
-      $.UserName = decodeURIComponent(cookie.match(/pt_pin=(.+?);/) && cookie.match(/pt_pin=(.+?);/)[1])
+      $.UserName = decodeURIComponent(cookie.match(/pt_pin=([^; ]+)(?=;?)/) && cookie.match(/pt_pin=([^; ]+)(?=;?)/)[1])
       $.index = i + 1;
       $.isLogin = true;
       $.nickName = '';
@@ -170,6 +69,9 @@ const JD_API_HOST = 'https://api.m.jd.com/api';
       await jd_necklace();
     }
   }
+  if ($.isNode() && allMessage) {
+    await notify.sendNotify(`${$.name}`, `${allMessage}`, { url: openUrl })
+  }
 })()
     .catch((e) => {
       $.log('', `❌ ${$.name}, 失败! 原因: ${e}!`, '')
@@ -178,39 +80,47 @@ const JD_API_HOST = 'https://api.m.jd.com/api';
       $.done();
     })
 async function jd_necklace() {
-  await necklace_homePage();
-  await doTask();
-  await necklace_homePage();
-  await receiveBubbles();
-  await sign();
-  await necklace_homePage();
-  // await necklace_exchangeGift(10);//自动兑换多少钱的无门槛红包，1000代表1元
-  await showMsg();
+  try {
+    await necklace_homePage();
+    await doTask();
+    await necklace_homePage();
+    await receiveBubbles();
+    await sign();
+    await necklace_homePage();
+    // await necklace_exchangeGift($.totalScore);//自动兑换多少钱的无门槛红包，1000代表1元，默认兑换全部点点券
+    await showMsg();
+  } catch (e) {
+    $.logErr(e)
+  }
 }
 function showMsg() {
   return new Promise(async resolve => {
-    let nowTimes = new Date(new Date().getTime() + new Date().getTimezoneOffset()*60*1000 + 8*60*60*1000);
-    if (nowTimes.getHours() >= 20 && $.totalScore >= 10000) {
+    if (nowTimes.getHours() >= 20) {
       $.msg($.name, '', `京东账号${$.index} ${$.nickName}\n当前${$.name}：${$.totalScore}个\n可兑换无门槛红包：${$.totalScore / 1000}元\n点击弹窗即可去兑换(注：此红包具有时效性)`, { 'open-url': openUrl});
     }
     // 云端大于10元无门槛红包时进行通知推送
-    if ($.isNode() && $.totalScore >= 10000 && nowTimes.getHours() >= 20) await notify.sendNotify(`${$.name} - 京东账号${$.index} - ${$.nickName}`, `京东账号${$.index} ${$.nickName}\n当前${$.name}：${$.totalScore}个\n可兑换无门槛红包：${$.totalScore / 1000}元\n点击链接即可去兑换(注：此红包具有时效性)\n↓↓↓ \n\n ${openUrl} \n\n ↑↑↑`, { url: openUrl })
+    // if ($.isNode() && $.totalScore >= 20000 && nowTimes.getHours() >= 20) await notify.sendNotify(`${$.name} - 京东账号${$.index} - ${$.nickName}`, `京东账号${$.index} ${$.nickName}\n当前${$.name}：${$.totalScore}个\n可兑换无门槛红包：${$.totalScore / 1000}元\n点击链接即可去兑换(注：此红包具有时效性)\n↓↓↓ \n\n ${openUrl} \n\n ↑↑↑`, { url: openUrl })
+    if ($.isNode() && nowTimes.getHours() >= 20 && (process.env.DDQ_NOTIFY_CONTROL ? process.env.DDQ_NOTIFY_CONTROL === 'false' : !!1)) {
+      allMessage += `京东账号${$.index} ${$.nickName}\n当前${$.name}：${$.totalScore}个\n可兑换无门槛红包：${$.totalScore / 1000}元\n(京东APP->领券->左上角点点券.注：此红包具有时效性)${$.index !== cookiesArr.length ? '\n\n' : `\n↓↓↓ \n\n "https://h5.m.jd.com/babelDiy/Zeus/41Lkp7DumXYCFmPYtU3LTcnTTXTX/index.html" \n\n ↑↑↑`}`
+    }
     resolve()
   })
 }
 async function doTask() {
   for (let item of $.taskConfigVos) {
     if (item.taskStage === 0) {
-      console.log(`${item.taskName}未完成`);
+      console.log(`【${item.taskName}】 任务未领取,开始领取此任务`);
       await necklace_startTask(item.id);
-      await $.wait(2000);
-      await necklace_startTask(item.id);
+      console.log(`【${item.taskName}】 任务领取成功,开始完成此任务`);
+      await $.wait(1000);
+      await reportTask(item);
     } else if (item.taskStage === 2) {
-      console.log(`${item.taskName}任务已做完,奖励未领取`);
+      console.log(`【${item.taskName}】 任务已做完,奖励未领取`);
     } else if (item.taskStage === 3) {
       console.log(`${item.taskName}奖励已领取`);
     } else if (item.taskStage === 1) {
-      console.log(`${item.taskName}任务未完成\n`);
+      console.log(`\n【${item.taskName}】 任务已领取但未完成,开始完成此任务`);
+      await reportTask(item);
     }
   }
 }
@@ -226,6 +136,23 @@ async function sign() {
   } else {
     console.log(`当前${new Date(new Date().getTime() + new Date().getTimezoneOffset()*60*1000 + 8*60*60*1000).toLocaleString()}已签到`)
   }
+}
+async function reportTask(item = {}) {
+  //普通任务
+  if (item['taskType'] === 2) await necklace_startTask(item.id, 'necklace_reportTask');
+  //逛很多商品店铺等等任务
+  if (item['taskType'] === 6 || item['taskType'] === 8 || item['taskType'] === 5 || item['taskType'] === 9) {
+    //浏览精选活动任务
+    await necklace_getTask(item.id);
+    $.taskItems = $.taskItems.filter(value => !!value && value['status'] === 0);
+    for (let vo of $.taskItems) {
+      console.log(`浏览精选活动 【${vo['title']}】`);
+      await necklace_startTask(item.id, 'necklace_reportTask', vo['id']);
+    }
+  }
+  //首页浏览XX秒的任务
+  if (item['taskType'] === 3) await doAppTask('3');
+  if (item['taskType'] === 4) await doAppTask('4');
 }
 //每日签到福利
 function necklace_sign() {
@@ -323,18 +250,20 @@ function necklace_chargeScores(bubleId) {
     })
   })
 }
-function necklace_startTask(taskId) {
+function necklace_startTask(taskId, functionId = 'necklace_startTask', itemId = "") {
   return new Promise(resolve => {
-    const body = {
+    let body = {
       taskId,
       currentDate: $.lastRequestTime.replace(/:/g, "%3A"),
     }
-    $.post(taskPostUrl("necklace_startTask", body), async (err, resp, data) => {
+    if (itemId) body['itemId'] = itemId;
+    $.post(taskPostUrl(functionId, body), async (err, resp, data) => {
       try {
         if (err) {
           console.log(`${JSON.stringify(err)}`)
           console.log(`${$.name} API请求失败，请检查网路重试`)
         } else {
+          console.log(`${functionId === 'necklace_startTask' ? '领取任务结果' : '做任务结果'}：${data}`);
           if (safeGet(data)) {
             data = JSON.parse(data);
             if (data.rtn_code === 0) {
@@ -353,7 +282,41 @@ function necklace_startTask(taskId) {
     })
   })
 }
+function necklace_getTask(taskId) {
+  return new Promise(resolve => {
+    const body = {
+      taskId,
+      currentDate: $.lastRequestTime.replace(/:/g, "%3A"),
+    }
+    $.taskItems = [];
+    $.post(taskPostUrl("necklace_getTask", body), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.rtn_code === 0) {
+              if (data.data.biz_code === 0) {
+                $.taskItems = data.data.result && data.data.result.taskItems;
+              }
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+
 function necklace_homePage() {
+  $.taskConfigVos = [];
+  $.bubbles = [];
+  $.signInfo = {};
   return new Promise(resolve => {
     $.post(taskPostUrl('necklace_homePage'), async (err, resp, data) => {
       try {
@@ -383,13 +346,101 @@ function necklace_homePage() {
     })
   })
 }
+
+async function doAppTask(type = '3') {
+  let body = {
+    "pageClickKey": "CouponCenter",
+    "childActivityUrl": "openapp.jdmobile%3a%2f%2fvirtual%3fparams%3d%7b%5c%22category%5c%22%3a%5c%22jump%5c%22%2c%5c%22des%5c%22%3a%5c%22couponCenter%5c%22%7d",
+    "lat": "",
+    "globalLat": "",
+    "lng": "",
+    "globalLng": ""
+  }
+  await getCcTaskList('getCcTaskList', body, type);
+  body = {
+    "globalLng": "",
+    "globalLat": "",
+    "monitorSource": "ccgroup_ios_index_task",
+    "monitorRefer": "",
+    "taskType": "2",
+    "childActivityUrl": "openapp.jdmobile%3a%2f%2fvirtual%3fparams%3d%7b%5c%22category%5c%22%3a%5c%22jump%5c%22%2c%5c%22des%5c%22%3a%5c%22couponCenter%5c%22%7d",
+    "pageClickKey": "CouponCenter",
+    "lat": "",
+    "taskId": "necklace_142",
+    "lng": "",
+  }
+  if (type === '4') {
+    await $.wait(15000);
+    body['taskId'] = 'necklace_143';
+  }
+  await $.wait(15500);
+  await getCcTaskList('reportCcTask', body, type);
+}
+function getCcTaskList(functionId, body, type = '3') {
+  let url = '';
+  return new Promise(resolve => {
+    if (functionId === 'getCcTaskList') {
+      url = `https://api.m.jd.com/client.action?functionId=${functionId}&body=${escape(JSON.stringify(body))}&uuid=8888888&client=apple&clientVersion=9.4.1&st=1614320848090&sign=d3259c0c19f6c792883485ae65f8991c&sv=111`
+    }
+    if (type === '3' && functionId === 'reportCcTask') url = `https://api.m.jd.com/client.action?functionId=${functionId}&body=${escape(JSON.stringify(body))}&uuid=8888888&client=apple&clientVersion=9.4.1&st=1615862880029&sign=65a8c7e54009ef2139bfe9fc6acd4390&sv=112`
+    if (type === '4' && functionId === 'reportCcTask') url = `https://api.m.jd.com/client.action?functionId=${functionId}&body=${escape(JSON.stringify(body))}&uuid=8888888&client=apple&clientVersion=9.4.1&st=1615863447055&sign=d920e1397e0ed2de3c4abd123c523268&sv=122`
+    // if (functionId === 'reportCcTask') {
+    //   url = `https://api.m.jd.com/client.action?functionId=${functionId}&body=${escape(JSON.stringify(body))}&uuid=8888888&client=apple&clientVersion=9.4.1&st=1614320901023&sign=26e637ba072ddbcfa44c5273ef928696&sv=111`
+    // }
+    const options = {
+      url,
+      body: `body=${escape(JSON.stringify(body))}`,
+      headers: {
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "zh-cn",
+        "Connection": "keep-alive",
+        "Content-Length": "63",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Host": "api.m.jd.com",
+        "Origin": "https://h5.m.jd.com",
+        "Cookie": cookie,
+        "Referer": "https://h5.m.jd.com/babelDiy/Zeus/4ZK4ZpvoSreRB92RRo8bpJAQNoTq/index.html",
+        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"),
+      }
+    }
+    $.post((options), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            if (type === '3' && functionId === 'reportCcTask') console.log(`点击首页领券图标(进入领券中心浏览15s)任务:${data}`)
+            if (type === '4' && functionId === 'reportCcTask') console.log(`点击“券后9.9”任务:${data}`)
+            // data = JSON.parse(data);
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
 function taskPostUrl(function_id, body = {}) {
   const time = new Date().getTime() + new Date().getTimezoneOffset()*60*1000 + 8*60*60*1000;
   return {
-    url: `${JD_API_HOST}?functionId=${function_id}&appid=jd_mp_h5&loginType=2&client=jd_mp_h5&t=${time}&body=${escape(JSON.stringify(body))}`,
+    url: `${JD_API_HOST}?functionId=${function_id}&appid=coupon-necklace&loginType=2&client=coupon-necklace&t=${time}&body=${escape(JSON.stringify(body))}&uuid=88732f840b77821b345bf07fd71f609e6ff12f43`,
+    // url: `${JD_API_HOST}?functionId=${function_id}&appid=jd_mp_h5&loginType=2&client=jd_mp_h5&t=${time}&body=${escape(JSON.stringify(body))}`,
     headers: {
-      "Cookie": cookie,
-      "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0"),
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+      "content-length": "0",
+      "cookie": cookie,
+      "origin": "https://h5.m.jd.com",
+      "referer": "https://h5.m.jd.com/",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-site",
+      "user-agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1")
     }
   }
 }
@@ -405,7 +456,7 @@ function TotalBean() {
         "Connection": "keep-alive",
         "Cookie": cookie,
         "Referer": "https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2",
-        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0")
+        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1")
       }
     }
     $.post(options, (err, resp, data) => {
@@ -420,7 +471,11 @@ function TotalBean() {
               $.isLogin = false; //cookie过期
               return
             }
-            $.nickName = data['base'].nickname;
+            if (data['retcode'] === 0) {
+              $.nickName = (data['base'] && data['base'].nickname) || $.UserName;
+            } else {
+              $.nickName = $.UserName
+            }
           } else {
             console.log(`京东服务器返回空数据`)
           }
