@@ -24,8 +24,7 @@ jobs:
               run: |
                   npm install
             - name: "运行 【冬瓜手机狂欢城】"
-              run: |
-                  node Ponysitters_Club_Season.js
+              
               env:
                   JD_COOKIE: ${{ secrets.JD_COOKIE }}
                   SYNCURL: /The.Flash/The.Flash/shoujikuanghuan.js
