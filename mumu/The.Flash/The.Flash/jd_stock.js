@@ -19,11 +19,11 @@
 
   quanx:
   [task_local]
-  0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_stock.js, tag=京东库存, enabled=true
+  0 9 * * * https://raw.githubusercontent.com/cmm188/da/main/mumu/The.Flash/The.Flash/jd_stock.js, tag=京东库存, enabled=true
 
   loon:
   [Script]
-  cron "0 9 * * *" script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_stock.js, tag=京东库存
+  cron "0 9 * * *" script-path=https://raw.githubusercontent.com/cmm188/da/main/mumu/The.Flash/The.Flash/jd_stock.js, tag=京东库存
 
   surge:
   [Script]
