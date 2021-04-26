@@ -1,4 +1,7 @@
-name: 东瓜领金贴
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: 领金贴
 
 on:
     # push:
@@ -20,7 +23,7 @@ jobs:
             - name: npm install
               run: |
                   npm install
-            - name: "运行 【东瓜金贴】"
+            - name: "运行 【领金贴】"
               run: |
                   node Ponysitters_Club_Season.js
               env:
