@@ -32,4 +32,4 @@ jobs:
                   JD_COOKIE: ${{ github.event.client_payload.JD_COOKIE || secrets.JD_COOKIE }}
                   EFORK: ${{ secrets.EFORK }}
                   GITHUB: ${{ secrets.GITHUB }}
-                  SYNCURL: /The.Flash/The.Flash/jd_health_collect.js
+                  SYNCURL: /jd_health_collect.js
