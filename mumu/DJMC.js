@@ -1,213 +1,40 @@
 /*
-Lucille moved her wrist slowly round, the better to examine the new bracelet.
-
-"You really are an angel, angel!" she murmured.
-
-"Like it?" said Archie complacently.
-
-"LIKE it! Why, it's gorgeous! It must have cost a fortune."
-
-"Oh, nothing to speak of. Just a few hard-earned pieces of eight. Just a few doubloons from the old oak chest."
-
-"But I didn't know there were any doubloons in the old oak chest."
-
-"Well, as a matter of fact," admitted Archie, "at one point in the proceedings there weren't. But an aunt of mine in England--peace be on her head!--happened to send me a chunk of the necessary at what you might call the psychological moment."
-
-"And you spent it all on a birthday present for me! Archie!" Lucille gazed at her husband adoringly. "Archie, do you know what I think?"
-
-"What?"
-
-"You're the perfect man!"
-
-"No, really! What ho!"
-
-"Yes," said Lucille firmly. "I've long suspected it, and now I know. I don't think there's anybody like you in the world."
-
-Archie patted her hand.
-
-"It's a rummy thing," he observed, "but your father said almost exactly that to me only yesterday. Only I don't fancy he meant the same as you. To be absolutely frank, his exact expression was that he thanked God there was only one of me."
-
-A troubled look came into Lucille's grey eyes.
-
-"It's a shame about father. I do wish he appreciated you. But you mustn't be too hard on him."
-
-"Me?" said Archie. "Hard on your father? Well, dash it all, I don't think I treat him with what you might call actual brutality, what! I mean to say, my whole idea is rather to keep out of the old lad's way and curl up in a ball if I can't dodge him. I'd just as soon be hard on a stampeding elephant! I wouldn't for the world say anything derogatory, as it were, to your jolly old pater, but there is no getting away from the fact that he's by way of being one of our leading man-eating fishes. It would be idle to deny that he considers that you let down the proud old name of Brewster a bit when you brought me in and laid me on the mat."
-
-"Anyone would be lucky to get you for a son-in-law, precious."
-
-"I fear me, light of my life, the dad doesn't see eye to eye with you on that point. No, every time I get hold of a daisy, I give him another chance, but it always works out at 'He loves me not!'"
-
-"You must make allowances for him, darling."
-
-"Right-o! But I hope devoutly that he doesn't catch me at it. I've a sort of idea that if the old dad discovered that I was making allowances for him, he would have from ten to fifteen fits."
-
-"He's worried just now, you know."
-
-"I didn't know. He doesn't confide in me much."
-
-"He's worried about that waiter."
-
-"What waiter, queen of my soul?"
-
-"A man called Salvatore. Father dismissed him some time ago."
-
-"Salvatore!"
-
-"Probably you don't remember him. He used to wait on this table."
-
-"Why--"
-
-"And father dismissed him, apparently, and now there's all sorts of trouble. You see, father wants to build this new hotel of his, and he thought he'd got the site and everything and could start building right away: and now he finds that this man Salvatore's mother owns a little newspaper and tobacco shop right in the middle of the site, and there's no way of getting him out without buying the shop, and he won't sell. At least, he's made his mother promise that she won't sell."
-
-"A boy's best friend is his mother," said Archie approvingly. "I had a sort of idea all along--"
-
-"So father's in despair."
-
-Archie drew at his cigarette meditatively.
-
-"I remember a chappie--a policeman he was, as a matter of fact, and incidentally a fairly pronounced blighter--remarking to me some time ago that you could trample on the poor man's face but you mustn't be surprised if he bit you in the leg while you were doing it. Apparently this is what has happened to the old dad. I had a sort of idea all along that old friend Salvatore would come out strong in the end if you only gave him time. Brainy sort of feller! Great pal of mine."-Lucille's small face lightened. She gazed at Archie with proud affection. She felt that she ought to have known that he was the one to solve this difficulty.
-
-"You're wonderful, darling! Is he really a friend of yours?"
-
-"Absolutely. Many's the time he and I have chatted in this very grill-room."
-
-"Then it's all right. If you went to him and argued with him, he would agree to sell the shop, and father would be happy. Think how grateful father would be to you! It would make all the difference."
-
-Archie turned this over in his mind.
-
-"Something in that," he agreed.
-
-"It would make him see what a pet lambkin you really are!"
-
-"Well," said Archie, "I'm bound to say that any scheme which what you might call culminates in your father regarding me as a pet lambkin ought to receive one's best attention. How much did he offer Salvatore for his shop?"
-
-"I don't know. There is father.--Call him over and ask him."
-
-Archie glanced over to where Mr. Brewster had sunk moodily into a chair at a neighbouring table. It was plain even at that distance that Daniel Brewster had his troubles and was bearing them with an ill grace. He was scowling absently at the table-cloth.
-
-"YOU call him," said Archie, having inspected his formidable relative. "You know him better."
-
-"Let's go over to him."
-
-They crossed the room. Lucille sat down opposite her father.-Archie draped himself over a chair in the background.
-
-"Father, dear," said Lucille. "Archie has got an idea."
-
-"Archie?" said Mr. Brewster incredulously.
-
-"This is me," said Archie, indicating himself with a spoon. "The tall, distinguished-looking bird."
-
-"What new fool-thing is he up to now?"
-
-"It's a splendid idea, father. He wants to help you over your new hotel."
-
-"Wants to run it for me, I suppose?"
-
-"By Jove!" said Archie, reflectively. "That's not a bad scheme! I never thought of running an hotel. I shouldn't mind taking a stab at it."
-
-"He has thought of a way of getting rid of Salvatore and his shop."
-
-For the first time Mr. Brewster's interest in the conversation seemed to stir. He looked sharply at his son-in-law.
-
-"He has, has he?" he said.
-
-Archie balanced a roll on a fork and inserted a plate underneath. The roll bounded away into a corner.
-
-"Sorry!" said Archie. "My fault, absolutely! I owe you a roll. I'll sign a bill for it. Oh, about this sportsman Salvatore, Well, it's like this, you know. He and I are great pals. I've known him for years and years. At least, it seems like years and years. Lu was suggesting that I seek him out in his lair and ensnare him with my diplomatic manner and superior brain power and what not."
-
-"It was your idea, precious," said Lucille.
-
-Mr. Brewster was silent.--Much as it went against the grain to have to admit it, there seemed to be something in this.
-
-"What do you propose to do?"
-
-"Become a jolly old ambassador. How much did you offer the chappie?"
-
-"Three thousand dollars. Twice as much as the place is worth. He's holding out on me for revenge."
-
-"Ah, but how did you offer it to him, what? I mean to say, I bet you got your lawyer to write him a letter full of whereases, peradventures, and parties of the first part, and so forth. No good, old companion!"
-
-"Don't call me old companion!"
-
-"All wrong, laddie! Nothing like it, dear heart! No good at all, friend of my youth! Take it from your Uncle Archibald! I'm a student of human nature, and I know a thing or two."
-
-"That's not much," growled Mr. Brewster, who was finding his son-in-law's superior manner a little trying.
-
-"Now, don't interrupt, father," said Lucille, severely. "Can't you see that Archie is going to be tremendously clever in a minute?"
-
-"He's got to show me!"
-
-"What you ought to do," said Archie, "is to let me go and see him, taking the stuff in crackling bills. I'll roll them about on the table in front of him. That'll fetch him!" He prodded Mr. Brewster encouragingly with a roll. "I'll tell you what to do. Give me three thousand of the best and crispest, and I'll undertake to buy that shop. It can't fail, laddie!"
-
-"Don't call me laddie!" Mr. Brewster pondered. "Very well," he said at last. "I didn't know you had so much sense," he added grudgingly.
-
-"Oh, positively!" said Archie. "Beneath a rugged exterior I hide a brain like a buzz-saw. Sense? I exude it, laddie; I drip with it."
-
-There were moments during the ensuing days when Mr. Brewster permitted himself to hope; but more frequent were the moments when he told himself that a pronounced chump like his son-in-law could not fail somehow to make a mess of the negotiations. His relief, therefore, when Archie curveted into his private room and announced that he had succeeded was great.
-
-"You really managed to make that wop sell out?"
-
-Archie brushed some papers off the desk with a careless gesture, and seated himself on the vacant spot.
-
-"Absolutely! I spoke to him as one old friend to another, sprayed the bills all over the place; and he sang a few bars from 'Rigoletto,' and signed on the dotted line."
-
-"You're not such a fool as you look," owned Mr. Brewster.
-
-Archie scratched a match on the desk and lit a cigarette.
-
-"It's a jolly little shop," he said. "I took quite a fancy to it. Full of newspapers, don't you know, and cheap novels, and some weird-looking sort of chocolates, and cigars with the most fearfully attractive labels. I think I'll make a success of it. It's bang in the middle of a dashed good neighbourhood. One of these days somebody will be building a big hotel round about there, and that'll help trade a lot. I look forward to ending my days on the other side of the counter with a full set of white whiskers and a skull-cap, beloved by everybody. Everybody'll say, 'Oh, you MUST patronise that quaint, delightful old blighter! He's quite a character.'"
-
-Mr. Brewster's air of grim satisfaction had given way to a look of discomfort, almost of alarm. He presumed his son-in-law was merely indulging in badinage; but even so, his words were not soothing.
-
-"Well, I'm much obliged," he said. "That infernal shop was holding up everything. Now I can start building right away."
-
-Archie raised his eyebrows.
-
-"But, my dear old top, I'm sorry to spoil your daydreams and stop you chasing rainbows, and all that, but aren't you forgetting that the shop belongs to me? I don't at all know that I want to sell, either!"
-
-"I gave you the money to buy that shop!"
-
-"And dashed generous of you it was, too!" admitted Archie, unreservedly. "It was the first money you ever gave me, and I shall always, tell interviewers that it was you who founded my fortunes. Some day, when I'm the Newspaper-and-Tobacco-Shop King, I'll tell the world all about it in my autobiography."
-
-Mr. Brewster rose dangerously from his seat.
-
-"Do you think you can hold me up, you--you worm?"
-
-"Well," said Archie, "the way I look at it is this. Ever since we met, you've been after me to become one of the world's workers, and earn a living for myself, and what not; and now I see a way to repay you for your confidence and encouragement. You'll look me up sometimes at the good old shop, won't you?" He slid off the table and moved towards the door. "There won't be any formalities where you are concerned. You can sign bills for any reasonable amount any time you want a cigar or a stick of chocolate. Well, toodle-oo!"
-
-"Stop!"
-
-"Now what?"
-
-"How much do you want for that damned shop?"
-
-"I don't want money.-I want a job.-If you are going to take my life-work away from me, you ought to give me something else to do."
-
-"What job?"
-
-"You suggested it yourself the other day. I want to manage your new hotel."
-
-"Don't be a fool! What do you know about managing an hotel?"
-
-"Nothing. It will be your pleasing task to teach me the business while the shanty is being run up."
-
-There was a pause, while Mr. Brewster chewed three inches off a pen-holder.
-
-"Very well," he said at last.
-
-"Topping!" said Archie. "I knew you'd, see it. I'll study your methods, what! Adding some of my own, of course. You know, I've thought of one improvement on the Cosmopolis already."
-
-"Improvement on the Cosmopolis!" cried Mr. Brewster, gashed in his finest feelings.
-
-"Yes. There's one point where the old Cosmop slips up badly, and I'm going to see that it's corrected at my little shack. Customers will be entreated to leave their boots outside their doors at night, and they'll find them cleaned in the morning. Well, pip, pip! I must be popping. Time is money, you know, with us business men."
+东东萌宠 更新地址： https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js
+更新时间：2021-05-21
+活动入口：京东APP我的-更多工具-东东萌宠
+已支持IOS多京东账号,Node.js支持N个京东账号
+脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
+
+互助码shareCode请先手动运行脚本查看打印可看到
+一天只能帮助5个人。多出的助力码无效
+
+=================================Quantumultx=========================
+[task_local]
+#东东萌宠
+15 6-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true
+
+=================================Loon===================================
+[Script]
+cron "15 6-18/6 * * *" script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js,tag=东东萌宠
+
+===================================Surge================================
+东东萌宠 = type=cron,cronexp="15 6-18/6 * * *",wake-system=1,timeout=3600,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js
+
+====================================小火箭=============================
+东东萌宠 = type=cron,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js, cronexpr="15 6-18/6 * * *", timeout=3600, enable=true
 
 */
 const $ = new Env('东东萌宠');
-let cookiesArr = [], cookie = '', jdPetShareArr = [], isBox = false, notify, newShareCodes;
+let cookiesArr = [], cookie = '', jdPetShareArr = [], isBox = false, notify, newShareCodes, allMessage = '';
 //助力好友分享码(最多5个,否则后面的助力失败),原因:京东农场每人每天只有四次助力机会
 //此此内容是IOS用户下载脚本到本地使用，填写互助码的地方，同一京东账号的好友互助码请使用@符号隔开。
 //下面给出两个账号的填写示例（iOS只支持2个京东账号）
-let shareCodes = []
+let shareCodes = [ // IOS本地脚本用户这个列表填入你要助力的好友的shareCode
+   //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
+  'MTAxODc2NTEzNTAwMDAwMDAwMjg3MDg2MA==@MTAxODc2NTEzMzAwMDAwMDAyNzUwMDA4MQ==@MTAxODc2NTEzMjAwMDAwMDAzMDI3MTMyOQ==@MTAxODc2NTEzNDAwMDAwMDAzMDI2MDI4MQ==@MTAxODcxOTI2NTAwMDAwMDAxOTQ3MjkzMw==',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+  'MTAxODc2NTEzMjAwMDAwMDAzMDI3MTMyOQ==@MTAxODcxOTI2NTAwMDAwMDAyNjA4ODQyMQ==@MTAxODc2NTEzOTAwMDAwMDAyNzE2MDY2NQ==@MTE1NDUyMjEwMDAwMDAwNDI0MDM2MDc=@MTAxODc2NTEzMjAwMDAwMDAwNDA5MzAzMw==',
+]
 let message = '', subTitle = '', option = {};
 let jdNotify = false;//是否关闭通知，false打开通知推送，true关闭通知推送
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
@@ -222,7 +49,7 @@ let randomCount = $.isNode() ? 20 : 5;
   for (let i = 0; i < cookiesArr.length; i++) {
     if (cookiesArr[i]) {
       cookie = cookiesArr[i];
-      $.UserName = decodeURIComponent(cookie.match(/pt_pin=(.+?);/) && cookie.match(/pt_pin=(.+?);/)[1])
+      $.UserName = decodeURIComponent(cookie.match(/pt_pin=([^; ]+)(?=;?)/) && cookie.match(/pt_pin=([^; ]+)(?=;?)/)[1])
       $.index = i + 1;
       $.isLogin = true;
       $.nickName = '';
@@ -244,6 +71,9 @@ let randomCount = $.isNode() ? 20 : 5;
       await shareCodesFormat();
       await jdPet();
     }
+  }
+  if ($.isNode() && allMessage && $.ctrTemp) {
+    await notify.sendNotify(`${$.name}`, `${allMessage}`)
   }
 })()
     .catch((e) => {
@@ -276,7 +106,7 @@ async function jdPet() {
       if ($.petInfo.petStatus === 5) {
         await slaveHelp();//可以兑换而没有去兑换,也能继续助力好友
         option['open-url'] = "openApp.jdMobile://";
-        $.msg($.name, `【提醒⏰】${$.petInfo.goodsInfo.goodsName}已可领取`, '请去京东APP或微信小程序查看', option);
+        $.msg($.name, ``, `【京东账号${$.index}】${$.nickName || $.UserName}\n【提醒⏰】${$.petInfo.goodsInfo.goodsName}已可领取\n请去京东APP或微信小程序查看\n点击弹窗即达`, option);
         if ($.isNode()) {
           await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName || $.UserName}奖品已可领取`, `京东账号${$.index} ${$.nickName}\n${$.petInfo.goodsInfo.goodsName}已可领取`);
         }
@@ -284,13 +114,13 @@ async function jdPet() {
       } else if ($.petInfo.petStatus === 6) {
         await slaveHelp();//已领取红包,但未领养新的,也能继续助力好友
         option['open-url'] = "openApp.jdMobile://";
-        $.msg($.name, `【提醒⏰】已领取红包,但未继续领养新的物品`, '请去京东APP或微信小程序继续领养', option);
+        $.msg($.name, ``, `【京东账号${$.index}】${$.nickName || $.UserName}\n【提醒⏰】已领取红包,但未继续领养新的物品\n请去京东APP或微信小程序查看\n点击弹窗即达`, option);
         if ($.isNode()) {
           await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName || $.UserName}奖品已可领取`, `京东账号${$.index} ${$.nickName}\n已领取红包,但未继续领养新的物品`);
         }
         return
       }
-      console.log(`\n【京东账号${$.index}（${$.nickName || $.UserName}）的${$.name}好友互助码】${$.petInfo.shareCode}\n`);
+      console.log(`\n【京东账号${$.index}（${$.UserName}）的${$.name}好友互助码】${$.petInfo.shareCode}\n`);
       await taskInit();
       if ($.taskInit.resultCode === '9999' || !$.taskInit.result) {
         console.log('初始化任务异常, 请稍后再试');
@@ -311,6 +141,9 @@ async function jdPet() {
     }
   } catch (e) {
     $.logErr(e)
+    const errMsg = `京东账号${$.index} ${$.nickName || $.UserName}\n任务执行异常，请检查执行日志 ‼️‼️`;
+    if ($.isNode()) await notify.sendNotify(`${$.name}`, errMsg);
+    $.msg($.name, '', `${errMsg}`)
   }
 }
 // 收取所有好感度
@@ -446,7 +279,7 @@ async function slaveHelp() {
   //$.log(`\n因1.6日好友助力功能下线。故暂时屏蔽\n`)
   //return
   let helpPeoples = '';
-  for (let code of $.newShareCodes) {
+  for (let code of newShareCodes) {
     console.log(`开始助力京东账号${$.index} - ${$.nickName}的好友: ${code}`);
     if (!code) continue;
     let response = await request(arguments.callee.name.toString(), {'shareCode': code});
@@ -599,91 +432,68 @@ async function feedReachInitFun() {
   console.log('投食任务结束...\n');
 }
 async function showMsg() {
-  let ctrTemp;
   if ($.isNode() && process.env.PET_NOTIFY_CONTROL) {
-    ctrTemp = `${process.env.PET_NOTIFY_CONTROL}` === 'false';
+    $.ctrTemp = `${process.env.PET_NOTIFY_CONTROL}` === 'false';
   } else if ($.getdata('jdPetNotify')) {
-    ctrTemp = $.getdata('jdPetNotify') === 'false';
+    $.ctrTemp = $.getdata('jdPetNotify') === 'false';
   } else {
-    ctrTemp = `${jdNotify}` === 'false';
+    $.ctrTemp = `${jdNotify}` === 'false';
   }
   // jdNotify = `${notify.petNotifyControl}` === 'false' && `${jdNotify}` === 'false' && $.getdata('jdPetNotify') === 'false';
-  if (ctrTemp) {
+  if ($.ctrTemp) {
     $.msg($.name, subTitle, message, option);
     if ($.isNode()) {
-      await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName}`, `${subTitle}\n${message}`);
+      allMessage += `${subTitle}\n${message}${$.index !== cookiesArr.length ? '\n\n' : ''}`
+      // await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName}`, `${subTitle}\n${message}`);
     }
   } else {
     $.log(`\n${message}\n`);
   }
 }
-getArrRandomly = (arr) => {
-  var len = arr.length;
-  for (var i = len - 1; i >= 0; i--) {
-    var randomIndex = Math.floor(Math.random() * (i + 1));
-    var itemIndex = arr[randomIndex];
-    arr[randomIndex] = arr[i];
-    arr[i] = itemIndex;
-  }
-  return arr;
-}
-
-
-getRandomArr = (arr=[],num) => {
-  const tmpArr = getArrRandomly(arr);
-  let arrList = [];
-  for (let i = 0; i < num; i++) {
-    arrList.push(tmpArr[i]);
-  };
-  return arrList;
-}
-
-
 function readShareCode() {
-console.log(`开始读取朱丽娜。。。`)
-return new Promise(async resolve => {
-  $.get({url: `https://raw.githubusercontent.com/jd1994527314/iosrule/cs/JD_TG/MC.json`, 'timeout': 10000}, (err, resp, data) => {
-    try {
-      if (err) {
-        console.log(`${JSON.stringify(err)}`)
-        console.log(`${$.name} API请求失败，请检查网路重试`)
-      } else {
-        if (data) {
-          console.log(`随机取${randomCount}个码放到您固定的互助码后面(不影响已有固定互助)`)
-          data = JSON.parse(data);
+  return new Promise(async resolve => {
+    $.get({url: `http://share.turinglabs.net/api/v3/pet/query/${randomCount}/`, 'timeout': 10000}, (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (data) {
+            console.log(`随机取个${randomCount}码放到您固定的互助码后面(不影响已有固定互助)`)
+            data = JSON.parse(data);
+          }
         }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve(data);
       }
-    } catch (e) {
-      $.logErr(e, resp)
-    } finally {
-      resolve(data);
-    }
+    })
+    await $.wait(10000);
+    resolve()
   })
-  await $.wait(10000);
-  resolve()
-})
 }
-//格式化助力码
 function shareCodesFormat() {
-return new Promise(async resolve => {
-  // console.log(`第${$.index}个京东账号的助力码:::${$.shareCodesArr[$.index - 1]}`)
-  $.newShareCodes = [];
-  const readShareCodeRes = await readShareCode();
-  
-  if (readShareCodeRes && readShareCodeRes.code === 200) {
-$.newShareCodes = [...new Set([...$.newShareCodes, ...(getRandomArr(getArrRandomly(readShareCodeRes.data),randomCount)|| [])])];
-  }
-  
-  console.log(`第${$.index}个京东账号将要助力的好友${JSON.stringify($.newShareCodes)}`)
-
-
-
-
-
-  resolve();
-})
+  return new Promise(async resolve => {
+    // console.log(`第${$.index}个京东账号的助力码:::${$.shareCodesArr[$.index - 1]}`)
+    newShareCodes = [];
+    if ($.shareCodesArr[$.index - 1]) {
+      newShareCodes = $.shareCodesArr[$.index - 1].split('@');
+    } else {
+      console.log(`由于您第${$.index}个京东账号未提供shareCode,将采纳本脚本自带的助力码\n`)
+      const tempIndex = $.index > shareCodes.length ? (shareCodes.length - 1) : ($.index - 1);
+      newShareCodes = shareCodes[tempIndex].split('@');
+    }
+    //因好友助力功能下线。故暂时屏蔽
+    const readShareCodeRes = await readShareCode();
+    //const readShareCodeRes = null;
+    if (readShareCodeRes && readShareCodeRes.code === 200) {
+      newShareCodes = [...new Set([...newShareCodes, ...(readShareCodeRes.data || [])])];
+    }
+    console.log(`第${$.index}个京东账号将要助力的好友${JSON.stringify(newShareCodes)}`)
+    resolve();
+  })
 }
-
 function requireConfig() {
   return new Promise(resolve => {
     console.log('开始获取东东萌宠配置文件\n')
@@ -700,55 +510,23 @@ function requireConfig() {
       })
       if (process.env.JD_DEBUG && process.env.JD_DEBUG === 'false') console.log = () => {};
     } else {
-      let cookiesData = $.getdata('CookiesJD') || "[]";
-      cookiesData = jsonParse(cookiesData);
-      cookiesArr = cookiesData.map(item => item.cookie);
-      cookiesArr.reverse();
-      cookiesArr.push(...[$.getdata('CookieJD2'), $.getdata('CookieJD')]);
-      cookiesArr.reverse();
-      cookiesArr = cookiesArr.filter(item => item !== "" && item !== null && item !== undefined);
+      cookiesArr = [$.getdata('CookieJD'), $.getdata('CookieJD2'), ...jsonParse($.getdata('CookiesJD') || "[]").map(item => item.cookie)].filter(item => !!item);
     }
     console.log(`共${cookiesArr.length}个京东账号\n`)
+    $.shareCodesArr = [];
     if ($.isNode()) {
       Object.keys(jdPetShareCodes).forEach((item) => {
         if (jdPetShareCodes[item]) {
-          jdPetShareArr.push(jdPetShareCodes[item])
+          $.shareCodesArr.push(jdPetShareCodes[item])
         }
       })
     } else {
-      const boxShareCodeArr = ['jd_pet1', 'jd_pet2', 'jd_pet3', 'jd_pet4', 'jd_pet5'];
-      const boxShareCodeArr2 = ['jd2_pet1', 'jd2_pet2', 'jd2_pet3', 'jd2_pet4', 'jd2_pet5'];
-      const isBox1 = boxShareCodeArr.some((item) => {
-        const boxShareCode = $.getdata(item);
-        return (boxShareCode !== undefined && boxShareCode !== null && boxShareCode !== '');
-      });
-      const isBox2 = boxShareCodeArr2.some((item) => {
-        const boxShareCode = $.getdata(item);
-        return (boxShareCode !== undefined && boxShareCode !== null && boxShareCode !== '');
-      });
-      isBox = isBox1 ? isBox1 : isBox2;
-      if (isBox1) {
-        let temp = [];
-        for (const item of boxShareCodeArr) {
-          if ($.getdata(item)) {
-            temp.push($.getdata(item))
-          }
-        }
-        jdPetShareArr.push(temp.join('@'));
-      }
-      if (isBox2) {
-        let temp = [];
-        for (const item of boxShareCodeArr2) {
-          if ($.getdata(item)) {
-            temp.push($.getdata(item))
-          }
-        }
-        jdPetShareArr.push(temp.join('@'));
-      }
+      if ($.getdata('jd_pet_inviter')) $.shareCodesArr = $.getdata('jd_pet_inviter').split('\n').filter(item => !!item);
+      console.log(`\nBoxJs设置的${$.name}好友邀请码:${$.getdata('jd_pet_inviter') ? $.getdata('jd_pet_inviter') : '暂无'}\n`);
     }
-    // console.log(`jdPetShareArr::${JSON.stringify(jdPetShareArr)}`)
-    // console.log(`jdPetShareArr账号长度::${jdPetShareArr.length}`)
-    console.log(`您提供了${jdPetShareArr.length}个账号的东东萌宠助力码\n`);
+    // console.log(`$.shareCodesArr::${JSON.stringify($.shareCodesArr)}`)
+    // console.log(`jdPetShareArr账号长度::${$.shareCodesArr.length}`)
+    console.log(`您提供了${$.shareCodesArr.length}个账号的东东萌宠助力码\n`);
     resolve()
   })
 }
@@ -764,7 +542,7 @@ function TotalBean() {
         "Connection": "keep-alive",
         "Cookie": cookie,
         "Referer": "https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2",
-        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0")
+        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1")
       }
     }
     $.post(options, (err, resp, data) => {
@@ -779,7 +557,11 @@ function TotalBean() {
               $.isLogin = false; //cookie过期
               return
             }
-            $.nickName = data['base'].nickname;
+            if (data['retcode'] === 0) {
+              $.nickName = (data['base'] && data['base'].nickname) || $.UserName;
+            } else {
+              $.nickName = $.UserName
+            }
           } else {
             console.log(`京东服务器返回空数据`)
           }
@@ -818,7 +600,7 @@ async function request(function_id, body = {}) {
 //     url: `${JD_API_HOST}?functionId=${function_id}&appid=wh5&loginWQBiz=pet-town&body=${escape(JSON.stringify(body))}`,
 //     headers: {
 //       Cookie: cookie,
-//       UserAgent: $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0"),
+//       UserAgent: $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"),
 //     }
 //   };
 // }
@@ -830,7 +612,7 @@ function taskUrl(function_id, body = {}) {
     body: `body=${escape(JSON.stringify(body))}&appid=wh5&loginWQBiz=pet-town&clientVersion=9.0.4`,
     headers: {
       'Cookie': cookie,
-      'User-Agent': $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.2.2;14.2;%E4%BA%AC%E4%B8%9C/9.2.2 CFNetwork/1206 Darwin/20.1.0"),
+      'User-Agent': $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('./USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"),
       'Host': 'api.m.jd.com',
       'Content-Type': 'application/x-www-form-urlencoded',
     }
